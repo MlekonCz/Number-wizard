@@ -20,7 +20,7 @@ public class NumberWizard : MonoBehaviour
         Debug.Log("You have to pick one nuumber!");
         Debug.Log("Highest number is: " + max);
         Debug.Log("While the lowest is: " + min);
-        Debug.Log("Get ready!!");
+        Debug.Log("Get ready!!!");
         Debug.Log("Tell me if your number is higher or lower than 500");
         Debug.Log("Push up = higher, Push down = lower, push Enter = Correct");
         
